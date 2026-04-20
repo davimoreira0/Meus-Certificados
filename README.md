@@ -7,7 +7,7 @@ Bem-vindo(a) ao meu repositório de certificações! Aqui concentro os certifica
 ### 📋 Lista de Certificados
 
 *   Python - Hotmart (2025) - [Visualizar Certificado](CERTIFICADOS/7128f51a-4eaf-4441-a593-793406e0100e-1889175730.pdf)
-*    - [Plataforma] ([Ano]) - [Visualizar Certificado](link-do-pdf)
+*   Fundamentos da Segurança Cibernética - Coursera (2025) - [Visualizar Certificado](CERTIFICADOS/Coursera 11KIC4S9K2JU.pdf)
 
 ---
 
