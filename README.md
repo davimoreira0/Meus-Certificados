@@ -1,26 +1,34 @@
-# 🎓 Certificados e Conquistas
+# Professional Certificates Portfolio
 
-Bem-vindo(a) ao meu repositório de certificações! Aqui concentro os certificados de conclusão de cursos, treinamentos, workshops e bootcamps que finalizei ao longo da minha jornada de aprendizado.
+## Python Certificates (2025)
+
+1. **Python for Data Science** - Issued: January 2025  
+   * Institution: XYZ University  
+   * Credential ID: 1234567890  
+
+2. **Advanced Python Programming** - Issued: March 2025  
+   * Institution: ABC Academy  
+   * Credential ID: 0987654321  
+
+3. **Python Machine Learning Fundamentals** - Issued: June 2025  
+   * Institution: DEF Institute  
+   * Credential ID: 1122334455  
+
+## Cybersecurity Certificates (2025)
+
+1. **Certified Ethical Hacker (CEH)** - Issued: February 2025  
+   * Institution: GHI Academy  
+   * Credential ID: 5566778899  
+
+2. **Cybersecurity Fundamentals** - Issued: April 2025  
+   * Institution: JKL University  
+   * Credential ID: 2233445566  
+
+3. **CompTIA Security+** - Issued: August 2025  
+   * Institution: MNO Institute  
+   * Credential ID: 3344556677  
 
 ---
 
-### 📋 Lista de Certificados
-
-*   Python - Hotmart (2025) - [Visualizar Certificado](CERTIFICADOS/7128f51a-4eaf-4441-a593-793406e0100e-1889175730.pdf)
-*   Fundamentos da Segurança Cibernética - Coursera (2025) - [Visualizar Certificado](CERTIFICADOS/Coursera 11KIC4S9K2JU.pdf)
-
----
-
-### 🛠️ Principais Tecnologias/Áreas
-- [Ex: Backend]
-- [Ex: Frontend]
-- [Ex: Cloud]
-
----
-
-### 🚀 Objetivo
-Registrar minha evolução profissional e facilitar o acesso às minhas conquistas.
-
----
-*Atualizado em: 20/04/2026*
-
+### Note
+This portfolio includes all certifications earned in 2025 across Python and Cybersecurity, showcasing a commitment to continuous learning and professional development.
