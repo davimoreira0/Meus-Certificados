@@ -1,6 +1,6 @@
-# 🎓 Meus Certificados
+# 🎓 My Certificates
 
-## Certificados 2025
+## Certificates 2025
 
 ### 💻 Python Certificate
 - **Hotmart**: [Python Certificate](CERTIFICADOS/7128f51a-4eaf-4441-a593-793406e0100e-1889175730.pdf)
@@ -17,7 +17,7 @@
 9. [Certificate 9](CERTIFICADOS/XJH69MCZWWZC.pdf)
 
 ## 📞 Contact
-For any inquiries, please reach out to me at: davimoreira0@example.com
+For any inquiries, please reach out to me at: moreiradavi3377@gmail.com
 
 ---
 Last updated on: 2026-04-20 17:31:14 UTC
