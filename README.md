@@ -17,7 +17,7 @@
 9. [Certificate - Connect and Protect: Networks and Networks Security](CERTIFICADOS/XJH69MCZWWZC.pdf)
 
 ## 📞 Contact
-For any inquiries, please reach out to me at: moreiradavi3377@gmail.com
+For any inquiries, please reach out to me at: moreiradavi336@gmail.com
 
 ---
 Last updated on: 2026-04-20 17:31:14 UTC
